@@ -1,4 +1,3 @@
 <?php
 
-
-class TaxBills  {}
+class TaxBills {}
